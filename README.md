@@ -2,8 +2,6 @@
 
 This repository contains both the front-end and back-end development for a self-service kiosk system at Domino's. The project is not yet complete; however, it currently allows for the management of orders from the kitchen and admin side (changing order status, viewing the content of an order...). The admin side also enables product and ingredient management within the restaurant.
 
-⏳ Future plans for this project include implementing customer-facing functionalities, such as placing orders, creating customized products, editing products, and so on. ⏳
-
 ## Setup
 
 Make sure to install the dependencies:
